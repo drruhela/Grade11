@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<SportsLibrary>
+    
+    <sport>
+        
+        <!--Name of Sport -->
+        <name> Basketball </name>
+        
+        <!-- Top countries that play this sport -->
+        <countries>
+            
+            <country> United States of America </country>
+            <country> Phillipines </country>
+            <country> Australia </country>
+            
+        </countries>
+        
+        <!-- Number of players on a single team -->
+        <NumPlayers> 5 to 12 players per team </NumPlayers>
+         
+    </sport>
+    
+     <sport>
+        
+        <!--Name of Sport -->
+        <name> Baseball </name>
+        
+        <!-- Top countries that play this sport -->
+        <countries>
+            
+            <country> United States of America </country>
+            <country> Dominican Republic </country>
+            <country> Canada </country>
+            
+        </countries>
+        
+        <!-- Number of players on a single team -->
+        <NumPlayers> Usually 25 players on the roster. </NumPlayers>
+         
+    </sport>
+    
+     <sport>
+        
+        <!--Name of Sport -->
+        <name> Football </name>
+        
+        <!-- Top countries that play this sport -->
+        <countries>
+            
+            <country> United States of America </country>
+            <country> Canada </country>
+            <country> Australia </country>
+            
+        </countries>
+        
+        <!-- Number of players on a single team -->
+        <NumPlayers> 53 players on the roster. </NumPlayers>
+         
+    </sport>
+    
+</SportsLibrary>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<courses>
+    <course>
+        <code>ICS3U</code>
+        <name>Computer Science</name>
+        <teacher>Muir</teacher>
+        <schoolBoard>Halton District School Board</schoolBoard>
+    </course>
+    <course>
+        <code>SBI3U</code>
+        <name>Biology</name>
+        <teacher>Wright</teacher>
+        <schoolBoard>Halton District School Board</schoolBoard>
+    </course>
+    <course>
+        <code>MCR3U</code>
+        <name>Math</name>
+        <teacher>Quraishi</teacher>
+        <schoolBoard>Halton District School Board</schoolBoard>
+    </course>
+    <course>
+        <code>ENG3U</code>
+        <name>English</name>
+        <teacher>Stratton</teacher>
+        <schoolBoard>Halton District School Board</schoolBoard>
+    </course>
+</courses>

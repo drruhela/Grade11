@@ -1,0 +1,133 @@
+
+<questions>
+
+	<question>
+
+		<actualQuestion>Which of these is a high-level language?</actualQuestion>
+
+		<optionA>Assembly Language</optionA>
+
+		<optionB>Machine Language</optionB>
+
+		<optionC>Java</optionC>
+
+		<optionD>Binary</optionD>
+
+		<correct>Java</correct>
+
+	</question>
+
+	<question>
+
+		<actualQuestion>What is the decimal value 150 in binary?</actualQuestion>
+
+		<optionA>1100 0110</optionA>
+
+		<optionB>1001 0110</optionB>
+
+		<optionC>1101 0011</optionC>
+
+		<optionD>1001 1010</optionD>
+
+		<correct>1001 0110</correct>
+		
+	</question>
+
+	<question>
+
+		<actualQuestion>What is the output of this: System.out.print(5==2)</actualQuestion>
+
+		<optionA>False</optionA>
+
+		<optionB>false</optionB>
+
+		<optionC>error</optionC>
+
+		<optionD>true</optionD>
+
+		<correct>false</correct>
+		
+	</question>
+
+	<question>
+
+		<actualQuestion>What is the logical operator for disjunction?</actualQuestion>
+
+		<optionA>!</optionA>
+
+		<optionB>&#38;&#38;</optionB>
+
+		<optionC>||</optionC>
+
+		<optionD>^</optionD>
+
+		<correct>||</correct>
+		
+	</question>
+
+	<question>
+
+		<actualQuestion>What does Math.ceil(4.3) return?</actualQuestion>
+
+		<optionA>4.0</optionA>
+
+		<optionB>10</optionB>
+
+		<optionC>4</optionC>
+
+		<optionD>5.0</optionD>
+
+		<correct>5.0</correct>
+		
+	</question>
+
+	<question>
+
+		<actualQuestion>What would be the worst case when implementing bubblesort to organzie a list of numbers in ascending order?</actualQuestion>
+
+		<optionA>The numbers are already in ascending order.</optionA>
+
+		<optionB>The first half of the numbers are in ascending order.</optionB>
+
+		<optionC>The second half of the numbers are in ascending order.</optionC>
+
+		<optionD>The numbers are in descending order.</optionD>
+
+		<correct>The numbers are in descending order.</correct>
+		
+	</question>
+
+	<question>
+
+		<actualQuestion>What must be true in order to implement a binary search algorithm?</actualQuestion>
+
+		<optionA>The array must only have integers.</optionA>
+
+		<optionB>The array must be presorted.</optionB>
+
+		<optionC>The array must only have strings.</optionC>
+
+		<optionD>The array must have at least 100 elements.</optionD>
+
+		<correct>The array must be presorted.</correct>
+		
+	</question>
+
+	<question>
+
+		<actualQuestion>How many bits are in a byte?</actualQuestion>
+
+		<optionA>4</optionA>
+
+		<optionB>2</optionB>
+
+		<optionC>16</optionC>
+
+		<optionD>8</optionD>
+
+		<correct>8</correct>
+		
+	</question>
+
+
+</questions>

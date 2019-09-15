@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<groceries>
+    <item>
+        <name>Milk</name>
+        <department>Dairy</department>
+        <quantity>1</quantity>
+        <price>3.99</price>
+    </item>
+    <item>
+        <name>Cheese</name>
+        <department>Dairy</department>
+        <quantity>1</quantity>
+        <price>5.99</price>
+    </item>
+    <item>
+        <name>Yogurt</name>
+        <department>Dairy</department>
+        <quantity>1</quantity>
+        <price>4.99</price>
+    </item>
+    <item>
+        <name>raisins</name>
+        <department>Dry Goods</department>
+        <quantity>2</quantity>
+        <price>3.99</price>
+    </item>
+    <item>
+        <name>almonds</name>
+        <department>Dry Goods</department>
+        <quantity>2</quantity>
+        <price>5.00</price>
+    </item>
+    <item>
+        <name>walnuts</name>
+        <department>Dry Goods</department>
+        <quantity>1</quantity>
+        <price>4.50</price>
+    </item>
+    <item>
+        <name>Tomatoes</name>
+        <department>Produce</department>
+        <quantity>1</quantity>
+        <price>5.99</price>
+    </item>
+    <item>
+        <name>carrots</name>
+        <department>Produce</department>
+        <quantity>5</quantity>
+        <price>4.99</price>
+    </item>
+    <item>
+        <name>oranges</name>
+        <department>Produce</department>
+        <quantity>4</quantity>
+        <price>4.00</price>
+    </item>
+    <item>
+        <name>brocoli</name>
+        <department>Produce</department>
+        <quantity>1</quantity>
+        <price>3.00</price>
+    </item>
+    <item>
+        <name>apples</name>
+        <department>Produce</department>
+        <quantity>4</quantity>
+        <price>2.99</price>
+    </item>
+    <item>
+        <name>cucumbers</name>
+        <department>Produce</department>
+        <quantity>2</quantity>
+        <price>1.99</price>
+    </item>
+    <item>
+        <name>bread</name>
+        <department>Bake Shop</department>
+        <quantity>2</quantity>
+        <price>3.00</price>
+    </item>
+    <item>
+        <name>muffins</name>
+        <department>Bake Shop</department>
+        <quantity>5</quantity>
+        <price>3.99</price>
+    </item>
+    <item>
+        <name>bagels</name>
+        <department>Bake Shop</department>
+        <quantity>6</quantity>
+        <price>2.99</price>
+    </item>
+    <item>
+        <name>chicken</name>
+        <department>Deli</department>
+        <quantity>1</quantity>
+        <price>8.00</price>
+    </item>
+    <item>
+        <name>ham</name>
+        <department>Deli</department>
+        <quantity>1</quantity>
+        <price>9.00</price>
+    </item>
+    <item>
+        <name>beef</name>
+        <department>Deli</department>
+        <quantity>1</quantity>
+        <price>5.99</price>
+    </item>
+    <item>
+        <name>pizzas</name>
+        <department>Frozen Foods</department>
+        <quantity>2</quantity>
+        <price>4.99</price>
+    </item>
+    <item>
+        <name>frozen vegetables</name>
+        <department>Frozen Foods</department>
+        <quantity>1</quantity>
+        <price>6.00</price>
+    </item>
+    <item>
+        <name>ice cream</name>
+        <department>Frozen Foods</department>
+        <quantity>1</quantity>
+        <price>5.99</price>
+    </item>
+    
+    
+</groceries>
